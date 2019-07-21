@@ -201,23 +201,23 @@ End Sub
 
 ```
 
-## 2014 Stock Analysis
+## 2014 Stock Market Analysis
 
 In 2014, DM had the greatest % increase (5581.16%), and CBO had the greatest % decrease (-95.73%). BAC had the greatest total 
 volume (21595474700).
 
-![2014 Stock Analysis](images/2014_results.png)
+![2014 Stock Market Analysis](images/2014_results.png)
 
-## 2015 Stock Analysis
+## 2015 Stock Market Analysis
 
 In 2015, ARR had the greatest % increase (491.30%), and KMI.W had the greatest % decrease (-98.59%). BAC had the greatest total 
 volume (21277761900).
 
-![2015 Stock Analysis](images/2015_results.png)
+![2015 Stock Market Analysis](images/2015_results.png)
 
-## 2016 Stock Analysis
+## 2016 Stock Market Analysis
 
 In 2016, SD had the greatest % increase (11675.00%), and DYN.W had the greatest % decrease (-91.49%). BAC had the greatest total 
 volume (27428529600).
 
-![2016 Stock Analysis](images/2016_results.png)
+![2016 Stock Market Analysis](images/2016_results.png)
